@@ -6,7 +6,7 @@ package Task01;
 // равна сумме двух его последних цифр.
 public class Calculator {
 
-	public static boolean Calculation(String number) { // Checking of sum
+	public static boolean calculation(String number) { // Checking of sum
 
 		number = number.replaceAll("[\\-\\+\\.,]", "");
 		if ((int) number.charAt(0) + (int) number.charAt(1) == (int) number

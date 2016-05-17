@@ -7,7 +7,7 @@ package Task01;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println(Calculator.Calculation("2011"));
+		System.out.println(Calculator.calculation("2011"));
 
 	}
 
