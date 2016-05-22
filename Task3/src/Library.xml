@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lib:All-Libraries xmlns:lib="http://www.epam.example.org/Library"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.epam.example.org/Library XSD_1.xsd">
+    <lib:Library ID="1">
+    <lib:Book ID="201">
+        <lib:Genre>Novel</lib:Genre>
+        <lib:Title>Captain Blood: His Odyssey</lib:Title>
+        <lib:Author>
+            <lib:First-Name>Raffael</lib:First-Name>
+            <lib:Last-Name>Sabbatini</lib:Last-Name>
+        </lib:Author>
+        <lib:Year-Create>1922</lib:Year-Create>
+        <lib:Country>Italy</lib:Country>
+    </lib:Book>
+    <lib:Book ID="202">
+        <lib:Genre>Detective</lib:Genre>
+        <lib:Title>The Hound of the Baskervilles</lib:Title>
+        <lib:Author>
+            <lib:First-Name>Arthur</lib:First-Name>
+            <lib:Last-Name>Conan Doyle</lib:Last-Name>
+        </lib:Author>
+        <lib:Year-Create>1902</lib:Year-Create>
+        <lib:Country>Great Britain</lib:Country>
+    </lib:Book>
+    <lib:Library-Name>First Library</lib:Library-Name>
+    </lib:Library>
+
+    <lib:Library ID="3">
+        <lib:Book ID="203">
+            <lib:Genre>Fantasy</lib:Genre>
+            <lib:Title>Head of professor Doyle</lib:Title>
+            <lib:Author>
+                <lib:First-Name>Alexander</lib:First-Name>
+                <lib:Last-Name>Belyaev</lib:Last-Name>
+            </lib:Author>
+            <lib:Year-Create>1925</lib:Year-Create>
+            <lib:Country>Russia</lib:Country>
+        </lib:Book>
+        <lib:Book ID="204">
+            <lib:Genre>Fairy tale</lib:Genre>
+            <lib:Title>Snow queen</lib:Title>
+            <lib:Author>
+                <lib:First-Name>Hans</lib:First-Name>
+                <lib:Last-Name>Christian Andersen</lib:Last-Name>
+            </lib:Author>
+            <lib:Year-Create>1844</lib:Year-Create>
+            <lib:Country>Denmark</lib:Country>
+        </lib:Book>
+        <lib:Library-Name>Second Library</lib:Library-Name>
+    </lib:Library>
+</lib:All-Libraries>

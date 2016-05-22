@@ -1,0 +1,5 @@
+package pars.sax;
+
+public enum  MenuTagName {
+   ALL_LIBRARIES ,LIBRARY, LIBRARY_NAME, BOOK, GENRE, TITLE, AUTHOR, FIRST_NAME, LAST_NAME, YEAR_CREATE, COUNTRY
+}
