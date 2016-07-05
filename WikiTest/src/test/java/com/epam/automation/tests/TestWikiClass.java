@@ -13,7 +13,7 @@ public class TestWikiClass {
 
 	private final String TEXT = "Death";
 	private final String WRONG_TEXT = "Kvaziunofantastika";
-	private final String NONE_FOUND_MESSAGE = "Соответствий запросу не найдено.";
+	private final String NONE_FOUND_MESSAGE = "РЎРѕРѕС‚РІРµС‚СЃС‚РІРёР№ Р·Р°РїСЂРѕСЃСѓ РЅРµ РЅР°Р№РґРµРЅРѕ.";
 
 	@Test(priority = 1)
 	public void firstTestWiki() {
