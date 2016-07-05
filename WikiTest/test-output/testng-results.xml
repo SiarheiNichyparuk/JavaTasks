@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45078" started-at="2016-07-05T07:00:44Z" finished-at="2016-07-05T07:01:29Z">
+    <groups>
+    </groups>
+    <test name="TestWikipedia" duration-ms="45078" started-at="2016-07-05T07:00:44Z" finished-at="2016-07-05T07:01:29Z">
+      <class name="com.epam.automation.tests.TestWikiClass">
+        <test-method status="PASS" signature="firstTestWiki()[pri:1, instance:com.epam.automation.tests.TestWikiClass@119015b]" name="firstTestWiki" duration-ms="33938" started-at="2016-07-05T10:00:44Z" finished-at="2016-07-05T10:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestWiki -->
+        <test-method status="PASS" signature="secondTestWiki()[pri:2, instance:com.epam.automation.tests.TestWikiClass@119015b]" name="secondTestWiki" duration-ms="11109" started-at="2016-07-05T10:01:18Z" finished-at="2016-07-05T10:01:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestWiki -->
+      </class> <!-- com.epam.automation.tests.TestWikiClass -->
+    </test> <!-- TestWikipedia -->
+  </suite> <!-- Suite -->
+</testng-results>
